@@ -26,6 +26,15 @@ dependencies:
   http: ^1.1.0
   # Local cache
   shared_preferences: ^2.2.2
+  intl: ^0.18.1
+  retrofit: ^4.0.3
+  flutter_hooks: ^0.20.3
+  build_runner: ^2.4.6
+  cached_network_image: ^3.3.0
+  floor: ^1.4.2
+  retrofit_generator: ^8.0.3
+  floor_generator: ^1.4.2
+  dio: ^5.3.3
 
 
 dev_dependencies:
